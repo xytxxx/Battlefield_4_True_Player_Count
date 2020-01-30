@@ -26,7 +26,7 @@ function fixPlayerCount_cb(tr){
         }
         let pcElm = tr.querySelector('span.occupied');
         pcElm.innerText = pc;
-        pcElm.style.color = "#66ff99";
+        pcElm.style.color = "#bada55";
     }
 }
 

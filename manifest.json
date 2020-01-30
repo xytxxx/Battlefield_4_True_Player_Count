@@ -1,7 +1,7 @@
 {
     "name": "BF4 True Player Count",
     "version": "1.0",
-    "description": "Shows how many players are actually on the server!",
+    "description": "Shows how many players are actually on the server! \n Replace existing player count by green true plyer count.",
     "manifest_version": 2,
     "permissions": ["activeTab"],
     "background": {
