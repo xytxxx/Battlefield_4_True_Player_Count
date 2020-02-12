@@ -7,3 +7,5 @@ This extension replaces the fake player count with real one on the Battlelog web
 3.  Go to `chrome://extensions/` in Chrome.
 4.  Turn on developer mode if you haven't.
 5.  Click "Load Unpacked", select the folder you just unziped to.
+
+It may show more players than server maximium. That is because there are commanders in the game. 
